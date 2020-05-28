@@ -114,3 +114,25 @@ h3 {
 .carousel-item {
   padding: 7% 15%;
 }
+
+/* pricing section */
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+#cta {
+  text-align: center;
+  padding-top: 0;
+}
+
+#footer {
+  text-align: center;
+}
+.download-button-footer {
+  margin: 2%;
+}
